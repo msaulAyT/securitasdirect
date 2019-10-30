@@ -27,7 +27,7 @@ Has been tested in Spain. Similar webs has been found in
 - Portugal: https://customers.securitasdirect.pt/
 - Brasil: https://customers.verisure.com.br/
 - Netherland:
-- Chile:
+- Chile: https://customers.verisure.cl/
 - Perú:
 So change country and traslate could be needed. Please report ISSUEs about it. Thanks.
 
